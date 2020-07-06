@@ -1,0 +1,8 @@
+Circle [radius=1.0, color=Yellow, x_coordinate=1.0, y_coordinate=1.0]
+Square [side length=2.0, color=White, x_coordinate=2.0, y_coordinate=2.0]
+Triangle [side1=3.0, side2=4.0, side3=5.0, color=Purple, x_coordinate=-1.0, y_coordinate=-1.0]
+Equilateral Triangle [side=7.0, color=Pink, x_coordinate=4.0, y_coordinate=4.0]
+Square [side length=2.0, color=blue, x_coordinate=2.0, y_coordinate=3.0]
+Circle [radius=5.0, color=green, x_coordinate=4.0, y_coordinate=2.0]
+Triangle [side1=4.0, side2=5.0, side3=6.0, color=yellow, x_coordinate=5.0, y_coordinate=-3.0]
+Equilateral Triangle [side=5.0, color=pink, x_coordinate=-1.0, y_coordinate=-3.0]

@@ -1,0 +1,6 @@
+Preson1/1/11 checking 1000.0,
+Preson2/2/22 checking 2000.0,
+Preson3/3/33 checking 3000.0,
+Preson4/4/44 checking 4000.0,45 savings 5000.0,
+Preson5/5/55 checking 6000.0,
+Preson6/6/66 checking 8000.0,67 savings 15000.0,68 savings 20000.0,
